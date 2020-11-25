@@ -1,4 +1,8 @@
-Scrambled String: https://leetcode.com/problems/scramble-string/
+Questions are sorted as per their difficulty level:
+
+Longest Palindromic Subsequence: https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/
+
+Edit Distance: https://leetcode.com/problems/edit-distance/
 
 Distinct Subsequence : https://www.interviewbit.com/problems/distinct-subsequences/
 
@@ -8,6 +12,4 @@ Regular Expression Match I: https://www.interviewbit.com/problems/regular-expres
 
 Regular Expression Match II: https://www.interviewbit.com/problems/regular-expression-ii/
 
-Longest Palindromic Subsequence: https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/
-
-Edit Distance: https://leetcode.com/problems/edit-distance/
+Scrambled String: https://leetcode.com/problems/scramble-string/
