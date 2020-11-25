@@ -1,4 +1,4 @@
-Questions are arranged in the sprted order of their difficulty level.
+Questions are arranged in the sorted order of their difficulty level.
 
 Add One to number: https://www.interviewbit.com/problems/add-one-to-number/
 
