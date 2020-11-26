@@ -1,8 +1,10 @@
-Question are sorted as per their difficulty level
+Questions are sorted as per their difficulty level
 
 RegionBinaryMatrix: https://www.interviewbit.com/problems/region-in-binarymatrix/
 
-Cycle-In-Directed-Graph(DFS+Iterative): https://www.geeksforgeeks.org/detect-cycle-in-a-graph/
+Cycle-In-Directed-Graph(Iterative DFS): https://www.geeksforgeeks.org/detect-cycle-in-a-graph/
+
+Cycle-In-Directed-Graph(Kahn's Algortihm): https://www.geeksforgeeks.org/detect-cycle-in-a-graph/
 
 A New Order: https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/a-new-order/
 
