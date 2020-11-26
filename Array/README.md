@@ -6,4 +6,6 @@ Minimum Steps in Infinite Grid: https://www.interviewbit.com/problems/min-steps-
 
 Wave Array: https://www.interviewbit.com/problems/wave-array/
 
+PrettyPrint: https://www.interviewbit.com/problems/prettyprint/
+
 Largest Number: https://www.interviewbit.com/problems/largest-number/
