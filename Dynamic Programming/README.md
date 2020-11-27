@@ -6,6 +6,8 @@ Longest Palindromic Subsequence: https://www.geeksforgeeks.org/longest-palindrom
 
 Edit Distance: https://leetcode.com/problems/edit-distance/
 
+Largest area of Rectangle with permutation: https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations/ 
+
 Distinct Subsequence : https://www.interviewbit.com/problems/distinct-subsequences/
 
 Interleaving String: https://www.interviewbit.com/problems/interleaving-strings/
