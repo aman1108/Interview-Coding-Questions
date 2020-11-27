@@ -1,5 +1,9 @@
 Questions are sorted as per their difficulty level:
 
+Jump Game Array: https://www.interviewbit.com/problems/jump-game-array/
+
+Min Jump Array: https://www.interviewbit.com/problems/min-jumps-array/
+
 Longest Wave Subsequence: https://www.interviewbit.com/problems/length-of-longest-subsequence/
 
 Longest Palindromic Subsequence: https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/
