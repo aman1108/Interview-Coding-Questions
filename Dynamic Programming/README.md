@@ -1,5 +1,7 @@
 Questions are sorted as per their difficulty level:
 
+Longest Wave Subsequence: https://www.interviewbit.com/problems/length-of-longest-subsequence/
+
 Longest Palindromic Subsequence: https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/
 
 Edit Distance: https://leetcode.com/problems/edit-distance/
