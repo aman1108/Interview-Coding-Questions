@@ -12,6 +12,8 @@ Edit Distance: https://leetcode.com/problems/edit-distance/
 
 Largest area of Rectangle with permutation: https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations/ 
 
+Tushar's Birthday Party: https://www.interviewbit.com/problems/tushars-birthday-party/
+
 Distinct Subsequence : https://www.interviewbit.com/problems/distinct-subsequences/
 
 Interleaving String: https://www.interviewbit.com/problems/interleaving-strings/
