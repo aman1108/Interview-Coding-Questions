@@ -22,4 +22,6 @@ Regular Expression Match I: https://www.interviewbit.com/problems/regular-expres
 
 Regular Expression Match II: https://www.interviewbit.com/problems/regular-expression-ii/
 
+Smallest Sequence with give prime: https://www.interviewbit.com/problems/smallest-sequence-with-given-primes/
+
 Scrambled String: https://leetcode.com/problems/scramble-string/
