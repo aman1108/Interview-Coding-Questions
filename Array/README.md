@@ -9,3 +9,5 @@ Wave Array: https://www.interviewbit.com/problems/wave-array/
 PrettyPrint: https://www.interviewbit.com/problems/prettyprint/
 
 Largest Number: https://www.interviewbit.com/problems/largest-number/
+
+Minimum Lights to activate: https://www.interviewbit.com/problems/minimum-lights-to-activate/
