@@ -2,6 +2,8 @@ Questions are sorted as per their difficulty level
 
 RegionBinaryMatrix: https://www.interviewbit.com/problems/region-in-binarymatrix/
 
+Black Shapes: https://www.interviewbit.com/problems/black-shapes/
+
 Cycle In Undirected Graph(BFS): https://www.interviewbit.com/problems/cycle-in-undirected-graph/
 
 Cycle-In-Directed-Graph(Iterative DFS): https://www.geeksforgeeks.org/detect-cycle-in-a-graph/
