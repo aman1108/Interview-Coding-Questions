@@ -8,6 +8,8 @@ Pascal Triangle: https://www.interviewbit.com/problems/pascal-triangle/
 
 Kth-row-Pascal-Triangle: https://www.interviewbit.com/problems/kth-row-of-pascals-triangle/
 
+Anti-Diagonals: https://www.interviewbit.com/problems/anti-diagonals/
+
 Perfect Peak of Array: https://www.interviewbit.com/problems/perfect-peak-of-array/
 
 Wave Array: https://www.interviewbit.com/problems/wave-array/
