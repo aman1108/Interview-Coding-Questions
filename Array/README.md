@@ -4,6 +4,8 @@ Add One to number: https://www.interviewbit.com/problems/add-one-to-number/
 
 Minimum Steps in Infinite Grid: https://www.interviewbit.com/problems/min-steps-in-infinite-grid/
 
+Perfect Peak of Array: https://www.interviewbit.com/problems/perfect-peak-of-array/
+
 Wave Array: https://www.interviewbit.com/problems/wave-array/
 
 PrettyPrint: https://www.interviewbit.com/problems/prettyprint/
