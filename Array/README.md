@@ -6,6 +6,8 @@ Minimum Steps in Infinite Grid: https://www.interviewbit.com/problems/min-steps-
 
 Pascal Triangle: https://www.interviewbit.com/problems/pascal-triangle/
 
+Kth-row-Pascal-Triangle: https://www.interviewbit.com/problems/kth-row-of-pascals-triangle/
+
 Perfect Peak of Array: https://www.interviewbit.com/problems/perfect-peak-of-array/
 
 Wave Array: https://www.interviewbit.com/problems/wave-array/
