@@ -10,6 +10,8 @@ Kth-row-Pascal-Triangle: https://www.interviewbit.com/problems/kth-row-of-pascal
 
 Anti-Diagonals: https://www.interviewbit.com/problems/anti-diagonals/
 
+Noble Integer: https://www.interviewbit.com/problems/noble-integer/
+
 Perfect Peak of Array: https://www.interviewbit.com/problems/perfect-peak-of-array/
 
 Wave Array: https://www.interviewbit.com/problems/wave-array/
