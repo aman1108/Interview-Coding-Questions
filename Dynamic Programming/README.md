@@ -6,6 +6,8 @@ Min Jump Array: https://www.interviewbit.com/problems/min-jumps-array/
 
 Increasing Path in Matrix: https://www.interviewbit.com/problems/increasing-path-in-matrix/
 
+Maximum Size Square sub Matrix: https://www.interviewbit.com/problems/maximum-size-square-sub-matrix/
+
 Ways to Decode: https://www.interviewbit.com/problems/ways-to-decode/
 
 Longest Wave Subsequence: https://www.interviewbit.com/problems/length-of-longest-subsequence/
