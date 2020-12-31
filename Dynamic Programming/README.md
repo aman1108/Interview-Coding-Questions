@@ -4,6 +4,8 @@ Jump Game Array: https://www.interviewbit.com/problems/jump-game-array/
 
 Min Jump Array: https://www.interviewbit.com/problems/min-jumps-array/
 
+Increasing Path in Matrix: https://www.interviewbit.com/problems/increasing-path-in-matrix/
+
 Ways to Decode: https://www.interviewbit.com/problems/ways-to-decode/
 
 Longest Wave Subsequence: https://www.interviewbit.com/problems/length-of-longest-subsequence/
