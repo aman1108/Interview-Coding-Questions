@@ -18,3 +18,5 @@ Snake Ladder Problem: https://www.interviewbit.com/problems/snake-ladder-problem
 
 Valid-Path: https://www.geeksforgeeks.org/path-rectangle-containing-circles/
 
+Stepping Numbers: https://www.interviewbit.com/problems/stepping-numbers/
+
