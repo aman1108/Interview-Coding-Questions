@@ -20,6 +20,8 @@ Edit Distance: https://leetcode.com/problems/edit-distance/
 
 Kingdom War: https://www.interviewbit.com/problems/kingdom-war/
 
+Kth Manhattan Distance Neighbourhood: https://www.interviewbit.com/problems/kth-manhattan-distance-neighbourhood/
+
 Largest area of Rectangle with permutation: https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations/ 
 
 Tushar's Birthday Party: https://www.interviewbit.com/problems/tushars-birthday-party/
