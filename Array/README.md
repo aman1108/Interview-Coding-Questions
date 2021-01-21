@@ -2,7 +2,7 @@ Questions are arranged in the sorted order of their difficulty level.
 
 Add One to number: https://www.interviewbit.com/problems/add-one-to-number/
 
-Binary Array Sorting: https://practice.geeksforgeeks.org/problems/binary-array-sorting5355/1/company[]=Intuit%20&company[]=Intuit%20&page=1&query=company[]Intuit%20page1company[]Intuit
+Binary Array Sorting: https://www.geeksforgeeks.org/sort-binary-array-using-one-traversal/
 
 Minimum Steps in Infinite Grid: https://www.interviewbit.com/problems/min-steps-in-infinite-grid/
 
