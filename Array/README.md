@@ -30,6 +30,8 @@ Sum of Fibonacci Number: https://www.interviewbit.com/problems/sum-of-fibonacci-
 
 Sprial-Order_Matrix: https://www.interviewbit.com/problems/spiral-order-matrix-ii/
 
+Longest Substring Without Repeating Character: https://leetcode.com/problems/longest-substring-without-repeating-characters
+
 Minimum Lights to activate: https://www.interviewbit.com/problems/minimum-lights-to-activate/
 
 Maximum Absolute Difference : https://www.interviewbit.com/problems/maximum-absolute-difference/
