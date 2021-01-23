@@ -2,6 +2,8 @@ Smaller-or-Equal-Elements: https://www.interviewbit.com/problems/smaller-or-equa
 
 Floor-Square-Root-Using-BinarySearch: https://www.geeksforgeeks.org/square-root-of-an-integer/
 
+Modular Exponential: https://www.interviewbit.com/problems/implement-power-function/?ref=dash-reco
+
 Anagrams: https://www.interviewbit.com/problems/anagrams/
 
 Equal: https://www.interviewbit.com/problems/equal/
