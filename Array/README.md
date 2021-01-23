@@ -18,6 +18,8 @@ Perfect Peak of Array: https://www.interviewbit.com/problems/perfect-peak-of-arr
 
 Wave Array: https://www.interviewbit.com/problems/wave-array/
 
+Subsets:https://www.interviewbit.com/problems/subset/
+
 PrettyPrint: https://www.interviewbit.com/problems/prettyprint/
 
 Largest Number: https://www.interviewbit.com/problems/largest-number/
