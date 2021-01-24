@@ -20,6 +20,8 @@ Wave Array: https://www.interviewbit.com/problems/wave-array/
 
 Subsets:https://www.interviewbit.com/problems/subset/
 
+Permuatations: https://leetcode.com/problems/permutations/
+
 PrettyPrint: https://www.interviewbit.com/problems/prettyprint/
 
 Largest Number: https://www.interviewbit.com/problems/largest-number/
