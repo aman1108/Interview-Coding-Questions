@@ -8,6 +8,8 @@ PolynomialSearch: https://www.hackerearth.com/practice/algorithms/searching/bina
 
 Modular Exponential: https://www.interviewbit.com/problems/implement-power-function/?ref=dash-reco
 
+Roys Boolean Function: https://code.hackerearth.com/problem/algorithm/roys-boolean-function-1/ 
+
 Anagrams: https://www.interviewbit.com/problems/anagrams/
 
 Equal: https://www.interviewbit.com/problems/equal/
