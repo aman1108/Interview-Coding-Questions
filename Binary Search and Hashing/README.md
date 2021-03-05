@@ -4,6 +4,8 @@ Letter-Combinations-of-Mobile-Number: https://leetcode.com/problems/letter-combi
 
 Floor-Square-Root-Using-BinarySearch: https://www.geeksforgeeks.org/square-root-of-an-integer/
 
+PolynomialSearch: https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/monks-encounter-with-polynomial/
+
 Modular Exponential: https://www.interviewbit.com/problems/implement-power-function/?ref=dash-reco
 
 Anagrams: https://www.interviewbit.com/problems/anagrams/
