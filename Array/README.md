@@ -18,6 +18,8 @@ Perfect Peak of Array: https://www.interviewbit.com/problems/perfect-peak-of-arr
 
 Wave Array: https://www.interviewbit.com/problems/wave-array/
 
+Milly and Equal Array: https://www.hackerearth.com/problem/algorithm/milly-and-equal-array/description/
+
 The old monk: https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/the-old-monk/
 
 Subsets:https://www.interviewbit.com/problems/subset/
