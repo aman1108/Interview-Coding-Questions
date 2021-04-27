@@ -6,4 +6,6 @@ Count Total Set Bits:https://www.interviewbit.com/problems/count-total-set-bits/
 
 Array 3pointer:https://www.interviewbit.com/problems/array-3-pointers/
 
+Sliding Window Maximum: https://leetcode.com/problems/sliding-window-maximum/
+
 Magic Number: https://www.hackerearth.com/problem/algorithm/milly-and-the-magic-numbers-22/
