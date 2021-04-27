@@ -42,6 +42,8 @@ Sprial-Order_Matrix: https://www.interviewbit.com/problems/spiral-order-matrix-i
 
 Longest Substring Without Repeating Character: https://leetcode.com/problems/longest-substring-without-repeating-characters
 
+Sliding Window Maximum: https://leetcode.com/problems/sliding-window-maximum/
+
 Minimum Lights to activate: https://www.interviewbit.com/problems/minimum-lights-to-activate/
 
 Maximum Absolute Difference : https://www.interviewbit.com/problems/maximum-absolute-difference/
