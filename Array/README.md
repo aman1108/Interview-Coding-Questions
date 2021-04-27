@@ -32,6 +32,8 @@ Largest Number: https://www.interviewbit.com/problems/largest-number/
 
 Min XOR Value: https://www.interviewbit.com/problems/min-xor-value/
 
+Longest Turbulent Subarray: https://leetcode.com/problems/longest-turbulent-subarray/
+
 Fruit into Basket: https://leetcode.com/problems/fruit-into-baskets/
 
 Sum of Fibonacci Number: https://www.interviewbit.com/problems/sum-of-fibonacci-numbers/
