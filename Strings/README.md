@@ -6,6 +6,8 @@ Excel Column Name to Number: https://www.geeksforgeeks.org/find-excel-column-num
 
 Excel Column Name: https://www.geeksforgeeks.org/find-excel-column-name-given-number/
 
+Bulls and Cows: https://leetcode.com/problems/bulls-and-cows/
+
 Unique Email Addresses: https://leetcode.com/problems/unique-email-addresses/submissions/
 
 Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/
