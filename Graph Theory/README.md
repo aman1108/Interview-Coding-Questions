@@ -22,5 +22,9 @@ Palindrome Partitioning: https://leetcode.com/problems/palindrome-partitioning/
 
 Two Teams: https://www.interviewbit.com/problems/two-teams/
 
+Most Stones Removed with same Row or Column: https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
+
 Stepping Numbers: https://www.interviewbit.com/problems/stepping-numbers/
+
+
 
