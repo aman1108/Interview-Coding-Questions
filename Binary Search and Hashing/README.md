@@ -16,4 +16,6 @@ Equal: https://www.interviewbit.com/problems/equal/
 
 Woodcutting-made-easy:https://www.interviewbit.com/problems/woodcutting-made-easy/
 
+Minimum Area Rectangle: https://leetcode.com/problems/minimum-area-rectangle/submissions/
+
 Maximum Sum Triplets: https://www.interviewbit.com/problems/maximum-sum-triplet/
