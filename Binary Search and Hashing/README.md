@@ -18,4 +18,6 @@ Woodcutting-made-easy:https://www.interviewbit.com/problems/woodcutting-made-eas
 
 Minimum Area Rectangle: https://leetcode.com/problems/minimum-area-rectangle/submissions/
 
+Simple Queries: https://www.interviewbit.com/problems/simple-queries/
+
 Maximum Sum Triplets: https://www.interviewbit.com/problems/maximum-sum-triplet/
