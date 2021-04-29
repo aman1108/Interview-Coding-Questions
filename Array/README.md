@@ -30,6 +30,8 @@ Candy: https://leetcode.com/problems/candy/
 
 PrettyPrint: https://www.interviewbit.com/problems/prettyprint/
 
+Maximum Sum of good subarray: https://leetcode.com/problems/maximum-score-of-a-good-subarray/
+
 Largest Number: https://www.interviewbit.com/problems/largest-number/
 
 Min XOR Value: https://www.interviewbit.com/problems/min-xor-value/
