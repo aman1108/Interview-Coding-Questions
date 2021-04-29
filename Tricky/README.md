@@ -8,4 +8,6 @@ Array 3pointer:https://www.interviewbit.com/problems/array-3-pointers/
 
 Sliding Window Maximum: https://leetcode.com/problems/sliding-window-maximum/
 
+Maximum Building Height: https://leetcode.com/problems/maximum-building-height/
+
 Magic Number: https://www.hackerearth.com/problem/algorithm/milly-and-the-magic-numbers-22/
