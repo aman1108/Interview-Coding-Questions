@@ -16,6 +16,8 @@ Equal: https://www.interviewbit.com/problems/equal/
 
 Woodcutting-made-easy:https://www.interviewbit.com/problems/woodcutting-made-easy/
 
+Longest Consecutive sequence: https://leetcode.com/problems/longest-consecutive-sequence/
+
 Minimum Area Rectangle: https://leetcode.com/problems/minimum-area-rectangle/submissions/
 
 Simple Queries: https://www.interviewbit.com/problems/simple-queries/
