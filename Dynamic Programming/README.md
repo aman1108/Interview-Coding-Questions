@@ -30,6 +30,8 @@ Distinct Subsequence : https://www.interviewbit.com/problems/distinct-subsequenc
 
 Interleaving String: https://www.interviewbit.com/problems/interleaving-strings/
 
+Cherry Pickup: https://leetcode.com/problems/cherry-pickup-ii/
+
 Regular Expression Match I: https://www.interviewbit.com/problems/regular-expression-match/
 
 Regular Expression Match II: https://www.interviewbit.com/problems/regular-expression-ii/
