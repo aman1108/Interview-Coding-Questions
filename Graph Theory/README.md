@@ -20,6 +20,8 @@ Valid-Path: https://www.geeksforgeeks.org/path-rectangle-containing-circles/
 
 Palindrome Partitioning: https://leetcode.com/problems/palindrome-partitioning/
 
+Find Critical and Psuedo Critical Path in MST: https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/
+
 Two Teams: https://www.interviewbit.com/problems/two-teams/
 
 Most Stones Removed with same Row or Column: https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
