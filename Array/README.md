@@ -22,6 +22,8 @@ Milly and Equal Array: https://www.hackerearth.com/problem/algorithm/milly-and-e
 
 Reducing Dishes: https://leetcode.com/problems/reducing-dishes/ 
 
+Partition Labels: https://leetcode.com/problems/partition-labels/
+
 The old monk: https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/the-old-monk/
 
 Subsets:https://www.interviewbit.com/problems/subset/
