@@ -42,6 +42,8 @@ Longest Turbulent Subarray: https://leetcode.com/problems/longest-turbulent-suba
 
 Fruit into Basket: https://leetcode.com/problems/fruit-into-baskets/
 
+Patching Array: https://leetcode.com/problems/fruit-into-baskets/
+
 Sum of Fibonacci Number: https://www.interviewbit.com/problems/sum-of-fibonacci-numbers/
 
 Sprial-Order_Matrix: https://www.interviewbit.com/problems/spiral-order-matrix-ii/
