@@ -14,6 +14,8 @@ Anagrams: https://www.interviewbit.com/problems/anagrams/
 
 Equal: https://www.interviewbit.com/problems/equal/
 
+LRU Cache**: https://leetcode.com/problems/lru-cache/
+
 Woodcutting-made-easy:https://www.interviewbit.com/problems/woodcutting-made-easy/
 
 Longest Consecutive sequence: https://leetcode.com/problems/longest-consecutive-sequence/
@@ -23,3 +25,4 @@ Minimum Area Rectangle: https://leetcode.com/problems/minimum-area-rectangle/sub
 Simple Queries: https://www.interviewbit.com/problems/simple-queries/
 
 Maximum Sum Triplets: https://www.interviewbit.com/problems/maximum-sum-triplet/
+
