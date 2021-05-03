@@ -2,6 +2,8 @@ Matches in Tournament: https://leetcode.com/problems/count-of-matches-in-tournam
 
 Sorted Vowel Count: https://leetcode.com/problems/count-sorted-vowel-strings/
 
+Generae Parentheses: https://leetcode.com/problems/generate-parentheses/
+
 Diameter of a Binary Tree: https://leetcode.com/problems/diameter-of-binary-tree/
 
 All path from source to target: https://leetcode.com/problems/all-paths-from-source-to-target/
