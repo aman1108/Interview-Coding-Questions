@@ -6,6 +6,8 @@ Min Jump Array: https://www.interviewbit.com/problems/min-jumps-array/
 
 Increasing Path in Matrix: https://www.interviewbit.com/problems/increasing-path-in-matrix/
 
+House Robber: https://leetcode.com/problems/house-robber/
+
 Maximum Path in Triangle: https://www.interviewbit.com/problems/maximum-path-in-triangle/
 
 Maximum Size Square sub Matrix: https://www.interviewbit.com/problems/maximum-size-square-sub-matrix/
