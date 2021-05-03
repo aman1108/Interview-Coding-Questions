@@ -1,5 +1,7 @@
 **Find all numbers disappered in array :https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 
+**Majority Element: https://leetcode.com/problems/majority-element/
+
 Add Two Number(Linked List in Python): https://leetcode.com/problems/add-two-numbers
 
 Maximum Ones after Modification: https://www.geeksforgeeks.org/longest-subsegment-1s-formed-changing-k-0s/
