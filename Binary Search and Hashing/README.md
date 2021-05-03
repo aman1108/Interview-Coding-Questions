@@ -10,6 +10,8 @@ Modular Exponential: https://www.interviewbit.com/problems/implement-power-funct
 
 Roys Boolean Function: https://code.hackerearth.com/problem/algorithm/roys-boolean-function-1/ 
 
+3Sum: https://leetcode.com/problems/3sum/
+
 Anagrams: https://www.interviewbit.com/problems/anagrams/
 
 Equal: https://www.interviewbit.com/problems/equal/
