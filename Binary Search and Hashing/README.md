@@ -16,6 +16,8 @@ Anagrams: https://www.interviewbit.com/problems/anagrams/
 
 Equal: https://www.interviewbit.com/problems/equal/
 
+Task Scheduler: https://leetcode.com/problems/task-scheduler/
+
 LRU Cache**: https://leetcode.com/problems/lru-cache/
 
 Woodcutting-made-easy:https://www.interviewbit.com/problems/woodcutting-made-easy/
