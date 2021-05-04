@@ -4,4 +4,6 @@ Mixing String : https://www.hackerearth.com/practice/basic-programming/implement
 
 Instersection of Two Linked List: https://leetcode.com/problems/intersection-of-two-linked-lists/
 
+Two Sum: https://leetcode.com/problems/two-sum/
+
 Stairs**: https://www.interviewbit.com/problems/stairs/
