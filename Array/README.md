@@ -12,6 +12,8 @@ Kth-row-Pascal-Triangle: https://www.interviewbit.com/problems/kth-row-of-pascal
 
 Anti-Diagonals: https://www.interviewbit.com/problems/anti-diagonals/
 
+Merge Two Sorted List: https://leetcode.com/problems/merge-two-sorted-lists/
+
 Single Number*:https://leetcode.com/problems/single-number/
 
 Maximum Sum Subarray: https://leetcode.com/problems/maximum-subarray/
