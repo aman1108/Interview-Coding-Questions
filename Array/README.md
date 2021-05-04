@@ -36,6 +36,8 @@ Subsets:https://www.interviewbit.com/problems/subset/
 
 Permuatations: https://leetcode.com/problems/permutations/
 
+First Missing Positive: https://leetcode.com/problems/first-missing-positive/
+
 Candy: https://leetcode.com/problems/candy/
 
 PrettyPrint: https://www.interviewbit.com/problems/prettyprint/
