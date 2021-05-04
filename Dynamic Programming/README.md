@@ -8,6 +8,8 @@ Increasing Path in Matrix: https://www.interviewbit.com/problems/increasing-path
 
 House Robber: https://leetcode.com/problems/house-robber/
 
+House Robber II: https://leetcode.com/problems/house-robber-ii/
+
 Maximum Path in Triangle: https://www.interviewbit.com/problems/maximum-path-in-triangle/
 
 Maximum Size Square sub Matrix: https://www.interviewbit.com/problems/maximum-size-square-sub-matrix/
