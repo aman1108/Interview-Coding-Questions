@@ -24,6 +24,8 @@ Longest Consecutive sequence: https://leetcode.com/problems/longest-consecutive-
 
 Minimum Area Rectangle: https://leetcode.com/problems/minimum-area-rectangle/submissions/
 
+Longest Increasing Subsequence: https://leetcode.com/problems/longest-increasing-subsequence/
+
 Simple Queries: https://www.interviewbit.com/problems/simple-queries/
 
 Maximum Sum Triplets: https://www.interviewbit.com/problems/maximum-sum-triplet/
