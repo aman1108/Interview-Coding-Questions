@@ -34,6 +34,8 @@ Distinct Subsequence : https://www.interviewbit.com/problems/distinct-subsequenc
 
 Cherry Pickup II: https://leetcode.com/problems/cherry-pickup-ii/
 
+Longest Increasing Subsequence: https://leetcode.com/problems/longest-increasing-subsequence/
+
 Interleaving String: https://www.interviewbit.com/problems/interleaving-strings/
 
 Regular Expression Match I: https://www.interviewbit.com/problems/regular-expression-match/
