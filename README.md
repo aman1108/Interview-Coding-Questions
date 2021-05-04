@@ -11,8 +11,10 @@ Important links:
 
 4) Codearena (1v1 Fight): https://www.hackerearth.com/codearena/
 
-Article:
+Articles:
 
 1) https://medium.com/dsc-msit/how-to-prepare-for-a-google-internship-interview-google-interview-experience-part-1-6a9990f09af0
 
-2) https://ingenuity.iiitp.ac.in/experience/Success-is-a-failure-in-progress-11
+2) https://medium.com/@siddhism/how-i-prepared-for-google-0-leetcode-questions-to-200-questions-e37690ebce85
+
+3) https://ingenuity.iiitp.ac.in/experience/Success-is-a-failure-in-progress-11
