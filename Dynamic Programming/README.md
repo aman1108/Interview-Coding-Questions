@@ -18,6 +18,8 @@ Longest Wave Subsequence: https://www.interviewbit.com/problems/length-of-longes
 
 Longest Palindromic Subsequence: https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/
 
+Coin Change: https://leetcode.com/problems/coin-change/
+
 Edit Distance: https://leetcode.com/problems/edit-distance/
 
 Kingdom War: https://www.interviewbit.com/problems/kingdom-war/
