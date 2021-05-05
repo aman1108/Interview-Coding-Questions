@@ -1,5 +1,3 @@
-Questions are arranged in the sorted order of their difficulty level.
-
 Add One to number: https://www.interviewbit.com/problems/add-one-to-number/
 
 Binary Array Sorting: https://www.geeksforgeeks.org/sort-binary-array-using-one-traversal/
