@@ -12,7 +12,7 @@ Anti-Diagonals: https://www.interviewbit.com/problems/anti-diagonals/
 
 Merge Two Sorted List: https://leetcode.com/problems/merge-two-sorted-lists/
 
-Single Number*:https://leetcode.com/problems/single-number/
+Single Number**:https://leetcode.com/problems/single-number/
 
 Maximum Sum Subarray: https://leetcode.com/problems/maximum-subarray/
 
@@ -33,6 +33,8 @@ The old monk: https://www.hackerearth.com/practice/algorithms/searching/binary-s
 Subsets:https://www.interviewbit.com/problems/subset/
 
 Permuatations: https://leetcode.com/problems/permutations/
+
+Decoded XORed Permutation: https://leetcode.com/problems/decode-xored-permutation/
 
 First Missing Positive: https://leetcode.com/problems/first-missing-positive/
 
