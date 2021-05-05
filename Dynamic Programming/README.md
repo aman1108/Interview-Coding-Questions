@@ -1,5 +1,3 @@
-Questions are sorted as per their difficulty level:
-
 Jump Game Array: https://www.interviewbit.com/problems/jump-game-array/
 
 Min Jump Array: https://www.interviewbit.com/problems/min-jumps-array/
