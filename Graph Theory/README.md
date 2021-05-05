@@ -4,6 +4,8 @@ RegionBinaryMatrix: https://www.interviewbit.com/problems/region-in-binarymatrix
 
 Black Shapes: https://www.interviewbit.com/problems/black-shapes/
 
+Friend Circle: https://leetcode.com/problems/number-of-provinces/
+
 Cycle In Undirected Graph(BFS): https://www.interviewbit.com/problems/cycle-in-undirected-graph/
 
 Cycle-In-Directed-Graph(Iterative DFS): https://www.geeksforgeeks.org/detect-cycle-in-a-graph/
