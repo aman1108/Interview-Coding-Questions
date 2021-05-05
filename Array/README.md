@@ -38,6 +38,8 @@ Permuatations: https://leetcode.com/problems/permutations/
 
 First Missing Positive: https://leetcode.com/problems/first-missing-positive/
 
+Minimum Initial Energy to finish tasks: https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/
+
 Candy: https://leetcode.com/problems/candy/
 
 PrettyPrint: https://www.interviewbit.com/problems/prettyprint/
