@@ -14,6 +14,8 @@ Merge Two Sorted List: https://leetcode.com/problems/merge-two-sorted-lists/
 
 Single Number**:https://leetcode.com/problems/single-number/
 
+XOR queries of a subarray: https://leetcode.com/problems/xor-queries-of-a-subarray/
+
 Maximum Sum Subarray: https://leetcode.com/problems/maximum-subarray/
 
 Noble Integer: https://www.interviewbit.com/problems/noble-integer/
