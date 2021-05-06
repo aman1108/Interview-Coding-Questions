@@ -22,4 +22,6 @@ Letter Case Combination: https://leetcode.com/problems/letter-case-permutation/
 
 Strongest String I: https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/the-strongest-string-1-1/
 
+Longest Awesome Substring: https://leetcode.com/problems/find-longest-awesome-substring/
+
 Minimum Window Substring: https://leetcode.com/problems/minimum-window-substring/
