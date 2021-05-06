@@ -26,6 +26,8 @@ Find Critical and Psuedo Critical Path in MST: https://leetcode.com/problems/fin
 
 Two Teams: https://www.interviewbit.com/problems/two-teams/
 
+Redundant Connection: https://leetcode.com/problems/redundant-connection/
+
 Remove Max Edges to make graph fully connected: https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
 
 Most Stones Removed with same Row or Column: https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
