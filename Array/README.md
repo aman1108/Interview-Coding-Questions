@@ -46,6 +46,8 @@ Candy: https://leetcode.com/problems/candy/
 
 PrettyPrint: https://www.interviewbit.com/problems/prettyprint/
 
+Total Hamming Distance: https://leetcode.com/problems/total-hamming-distance/
+
 Maximum Sum of good subarray: https://leetcode.com/problems/maximum-score-of-a-good-subarray/
 
 Largest Number: https://www.interviewbit.com/problems/largest-number/
