@@ -24,6 +24,8 @@ Perfect Peak of Array: https://www.interviewbit.com/problems/perfect-peak-of-arr
 
 Wave Array: https://www.interviewbit.com/problems/wave-array/
 
+Frequency of most frequent array: https://leetcode.com/problems/frequency-of-the-most-frequent-element/
+
 Milly and Equal Array: https://www.hackerearth.com/problem/algorithm/milly-and-equal-array/description/
 
 Reducing Dishes: https://leetcode.com/problems/reducing-dishes/ 
