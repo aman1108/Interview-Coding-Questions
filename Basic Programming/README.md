@@ -1,3 +1,5 @@
+Fizzbuzz: https://leetcode.com/problems/fizz-buzz/
+
 Maximum And:https://www.geeksforgeeks.org/maximum-bitwise-and-pair-from-given-range/
 
 Mixing String : https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/mixing-strings-1/
