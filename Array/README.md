@@ -26,6 +26,8 @@ Wave Array: https://www.interviewbit.com/problems/wave-array/
 
 Frequency of most frequent array: https://leetcode.com/problems/frequency-of-the-most-frequent-element/
 
+Jump Game II : https://leetcode.com/problems/jump-game-ii/
+
 Milly and Equal Array: https://www.hackerearth.com/problem/algorithm/milly-and-equal-array/description/
 
 Reducing Dishes: https://leetcode.com/problems/reducing-dishes/ 
