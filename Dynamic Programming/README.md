@@ -16,6 +16,8 @@ Maximum Size Square sub Matrix: https://www.interviewbit.com/problems/maximum-si
 
 Ways to Decode: https://www.interviewbit.com/problems/ways-to-decode/
 
+Delete and Earn: https://leetcode.com/problems/delete-and-earn/
+
 Longest Wave Subsequence: https://www.interviewbit.com/problems/length-of-longest-subsequence/
 
 Longest Palindromic Subsequence: https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/
