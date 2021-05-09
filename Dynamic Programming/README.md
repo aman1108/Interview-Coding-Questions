@@ -24,6 +24,8 @@ Longest Wave Subsequence: https://www.interviewbit.com/problems/length-of-longes
 
 Longest Palindromic Subsequence: https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/
 
+Maximum Points You can Obtain from Cards: https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
+
 Coin Change: https://leetcode.com/problems/coin-change/
 
 Edit Distance: https://leetcode.com/problems/edit-distance/
