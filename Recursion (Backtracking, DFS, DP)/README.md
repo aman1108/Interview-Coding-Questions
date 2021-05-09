@@ -14,6 +14,8 @@ All path from source to target: https://leetcode.com/problems/all-paths-from-sou
 
 Unique Path III: https://leetcode.com/problems/unique-paths-iii/
 
+Binary Tree Maximum Path Sum: https://leetcode.com/problems/binary-tree-maximum-path-sum/
+
 Letter Tile Possibilities: https://leetcode.com/problems/letter-tile-possibilities/
 
 Pseudo Palindromic Path: https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
