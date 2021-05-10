@@ -16,6 +16,8 @@ A New Order: https://www.hackerearth.com/practice/algorithms/graphs/depth-first-
 
 Commutable Islands/ MST: https://www.interviewbit.com/problems/commutable-islands/
 
+Map of Highest Peak: https://leetcode.com/problems/map-of-highest-peak/
+
 Snake Ladder Problem: https://www.interviewbit.com/problems/snake-ladder-problem/
 
 Valid-Path: https://www.geeksforgeeks.org/path-rectangle-containing-circles/
