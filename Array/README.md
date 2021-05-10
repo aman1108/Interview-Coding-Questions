@@ -54,6 +54,8 @@ Minimum Initial Energy to finish tasks: https://leetcode.com/problems/minimum-in
 
 Candy: https://leetcode.com/problems/candy/
 
+Stone Game IV: https://leetcode.com/problems/stone-game-iv/
+
 PrettyPrint: https://www.interviewbit.com/problems/prettyprint/
 
 Total Hamming Distance: https://leetcode.com/problems/total-hamming-distance/
