@@ -26,6 +26,8 @@ Course Schedule :https://leetcode.com/problems/course-schedule/
 
 Palindrome Partitioning: https://leetcode.com/problems/palindrome-partitioning/
 
+Possible Bipartition: https://leetcode.com/problems/possible-bipartition/
+
 Find Critical and Psuedo Critical Path in MST: https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/
 
 Two Teams: https://www.interviewbit.com/problems/two-teams/
