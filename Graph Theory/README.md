@@ -22,6 +22,8 @@ Snake Ladder Problem: https://www.interviewbit.com/problems/snake-ladder-problem
 
 Valid-Path: https://www.geeksforgeeks.org/path-rectangle-containing-circles/
 
+Course Schedule :https://leetcode.com/problems/course-schedule/
+
 Palindrome Partitioning: https://leetcode.com/problems/palindrome-partitioning/
 
 Find Critical and Psuedo Critical Path in MST: https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/
