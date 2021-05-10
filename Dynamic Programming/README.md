@@ -52,4 +52,6 @@ Regular Expression Match II: https://www.interviewbit.com/problems/regular-expre
 
 Smallest Sequence with give prime: https://www.interviewbit.com/problems/smallest-sequence-with-given-primes/
 
+Delete Columns to Maked Sorted: https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
+
 Scrambled String: https://leetcode.com/problems/scramble-string/
