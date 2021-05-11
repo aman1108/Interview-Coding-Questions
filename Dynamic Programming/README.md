@@ -32,6 +32,8 @@ Coin Change: https://leetcode.com/problems/coin-change/
 
 Edit Distance: https://leetcode.com/problems/edit-distance/
 
+Where will the ball fall: https://leetcode.com/problems/where-will-the-ball-fall/
+
 Kingdom War: https://www.interviewbit.com/problems/kingdom-war/
 
 Kth Manhattan Distance Neighbourhood: https://www.interviewbit.com/problems/kth-manhattan-distance-neighbourhood/
