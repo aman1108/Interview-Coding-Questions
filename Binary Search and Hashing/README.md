@@ -28,6 +28,8 @@ Minimum Area Rectangle: https://leetcode.com/problems/minimum-area-rectangle/sub
 
 Longest Increasing Subsequence: https://leetcode.com/problems/longest-increasing-subsequence/
 
+Bitwise ORs of Subarrays: https://leetcode.com/problems/bitwise-ors-of-subarrays/
+
 Simple Queries: https://www.interviewbit.com/problems/simple-queries/
 
 Maximum Sum Triplets: https://www.interviewbit.com/problems/maximum-sum-triplet/
