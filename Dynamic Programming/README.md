@@ -42,6 +42,8 @@ Largest area of Rectangle with permutation: https://www.interviewbit.com/problem
 
 Tushar's Birthday Party: https://www.interviewbit.com/problems/tushars-birthday-party/
 
+Maximum Number of Non-Overlapping Subarrays With Sum Equals Target: https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
+
 Distinct Subsequence : https://www.interviewbit.com/problems/distinct-subsequences/
 
 Cherry Pickup II: https://leetcode.com/problems/cherry-pickup-ii/
