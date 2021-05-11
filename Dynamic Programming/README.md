@@ -18,6 +18,8 @@ Maximum Path in Triangle: https://www.interviewbit.com/problems/maximum-path-in-
 
 Maximum Size Square sub Matrix: https://www.interviewbit.com/problems/maximum-size-square-sub-matrix/
 
+Maximum Non Negative Product in matrix: https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/
+
 Ways to Decode: https://www.interviewbit.com/problems/ways-to-decode/
 
 Delete and Earn: https://leetcode.com/problems/delete-and-earn/
