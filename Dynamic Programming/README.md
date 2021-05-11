@@ -4,6 +4,8 @@ Min Jump Array: https://www.interviewbit.com/problems/min-jumps-array/
 
 Increasing Path in Matrix: https://www.interviewbit.com/problems/increasing-path-in-matrix/
 
+Unique Path: https://leetcode.com/problems/unique-paths/
+
 House Robber: https://leetcode.com/problems/house-robber/
 
 House Robber II: https://leetcode.com/problems/house-robber-ii/
