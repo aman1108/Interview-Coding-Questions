@@ -22,6 +22,8 @@ Ways to Decode: https://www.interviewbit.com/problems/ways-to-decode/
 
 Delete and Earn: https://leetcode.com/problems/delete-and-earn/
 
+Minimum Swaps to make sequence increasing: https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/
+
 Longest Wave Subsequence: https://www.interviewbit.com/problems/length-of-longest-subsequence/
 
 Longest Palindromic Subsequence: https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/
