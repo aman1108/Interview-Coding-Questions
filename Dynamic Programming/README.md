@@ -50,6 +50,8 @@ Maximum Number of Non-Overlapping Subarrays With Sum Equals Target: https://leet
 
 Distinct Subsequence : https://www.interviewbit.com/problems/distinct-subsequences/
 
+Unique substrings in Wraparound: https://leetcode.com/problems/unique-substrings-in-wraparound-string/
+
 Cherry Pickup II: https://leetcode.com/problems/cherry-pickup-ii/
 
 Longest Increasing Subsequence: https://leetcode.com/problems/longest-increasing-subsequence/
