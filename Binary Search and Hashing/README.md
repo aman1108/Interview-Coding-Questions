@@ -34,3 +34,5 @@ Simple Queries: https://www.interviewbit.com/problems/simple-queries/
 
 Maximum Sum Triplets: https://www.interviewbit.com/problems/maximum-sum-triplet/
 
+Maximum Length of Repeated Subarray (Rabin Karp Algo): https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+
