@@ -20,4 +20,6 @@ Binary Tree Maximum Path Sum: https://leetcode.com/problems/binary-tree-maximum-
 
 Letter Tile Possibilities: https://leetcode.com/problems/letter-tile-possibilities/
 
+Shopping Offer: https://leetcode.com/problems/shopping-offers/
+
 Pseudo Palindromic Path: https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
