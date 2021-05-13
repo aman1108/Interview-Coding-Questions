@@ -28,6 +28,8 @@ Minimum Swaps to make sequence increasing: https://leetcode.com/problems/minimum
 
 Longest Wave Subsequence: https://www.interviewbit.com/problems/length-of-longest-subsequence/
 
+Knight Dialer: https://leetcode.com/problems/knight-dialer/
+
 Longest Palindromic Subsequence: https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/
 
 Maximum Points You can Obtain from Cards: https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
