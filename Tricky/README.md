@@ -5,6 +5,8 @@ Maximum Ones after Modification: https://www.geeksforgeeks.org/longest-subsegmen
 
 Count Total Set Bits:https://www.interviewbit.com/problems/count-total-set-bits/
 
+Integer Replacement: https://leetcode.com/problems/integer-replacement/ 
+
 **Find all numbers disappered in array :https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 
 **Majority Element: https://leetcode.com/problems/majority-element/
