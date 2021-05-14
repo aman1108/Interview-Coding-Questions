@@ -12,6 +12,8 @@ Anti-Diagonals: https://www.interviewbit.com/problems/anti-diagonals/
 
 Merge Two Sorted List: https://leetcode.com/problems/merge-two-sorted-lists/
 
+Next Greater Element: https://leetcode.com/problems/next-greater-element-i/
+
 Single Number**:https://leetcode.com/problems/single-number/
 
 XOR queries of a subarray: https://leetcode.com/problems/xor-queries-of-a-subarray/
