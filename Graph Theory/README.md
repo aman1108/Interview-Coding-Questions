@@ -14,6 +14,8 @@ Cycle-In-Directed-Graph(Kahn's Algortihm): https://www.geeksforgeeks.org/detect-
 
 A New Order: https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/a-new-order/
 
+As far from Land as possible: https://leetcode.com/problems/as-far-from-land-as-possible/
+
 Commutable Islands/ MST: https://www.interviewbit.com/problems/commutable-islands/
 
 Map of Highest Peak: https://leetcode.com/problems/map-of-highest-peak/
