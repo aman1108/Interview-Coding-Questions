@@ -12,7 +12,9 @@ Anti-Diagonals: https://www.interviewbit.com/problems/anti-diagonals/
 
 Merge Two Sorted List: https://leetcode.com/problems/merge-two-sorted-lists/
 
-Next Greater Element: https://leetcode.com/problems/next-greater-element-i/
+Next Greater Element I: https://leetcode.com/problems/next-greater-element-i/
+
+Next Greater Element II:https://leetcode.com/problems/next-greater-element-ii/
 
 Single Number**:https://leetcode.com/problems/single-number/
 
