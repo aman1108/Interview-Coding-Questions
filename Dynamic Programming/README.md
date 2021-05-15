@@ -10,6 +10,8 @@ House Robber: https://leetcode.com/problems/house-robber/
 
 House Robber II: https://leetcode.com/problems/house-robber-ii/
 
+Champagne Tower: https://leetcode.com/problems/champagne-tower/
+
 2 Keys Keyboard: https://leetcode.com/problems/2-keys-keyboard/
 
 Video Stitching: https://leetcode.com/problems/video-stitching/
