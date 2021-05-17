@@ -1,5 +1,3 @@
-Questions are sorted as per their difficulty level
-
 RegionBinaryMatrix: https://www.interviewbit.com/problems/region-in-binarymatrix/
 
 Black Shapes: https://www.interviewbit.com/problems/black-shapes/
@@ -29,6 +27,8 @@ Valid-Path: https://www.geeksforgeeks.org/path-rectangle-containing-circles/
 Course Schedule :https://leetcode.com/problems/course-schedule/
 
 Palindrome Partitioning: https://leetcode.com/problems/palindrome-partitioning/
+
+Find eventual Safe States: https://leetcode.com/problems/find-eventual-safe-states/
 
 Possible Bipartition: https://leetcode.com/problems/possible-bipartition/
 
