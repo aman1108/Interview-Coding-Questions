@@ -28,6 +28,8 @@ Delete and Earn: https://leetcode.com/problems/delete-and-earn/
 
 Minimum Swaps to make sequence increasing: https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/
 
+Partition Array for Maximum Sum: https://leetcode.com/problems/partition-array-for-maximum-sum/
+
 Longest Wave Subsequence: https://www.interviewbit.com/problems/length-of-longest-subsequence/
 
 Largest Divisiblity Subset: https://leetcode.com/problems/largest-divisible-subset/
