@@ -22,6 +22,8 @@ Map of Highest Peak: https://leetcode.com/problems/map-of-highest-peak/
 
 Snake Ladder Problem: https://www.interviewbit.com/problems/snake-ladder-problem/
 
+Satisfiabilty of Equality Equation: https://leetcode.com/problems/satisfiability-of-equality-equations/
+
 Valid-Path: https://www.geeksforgeeks.org/path-rectangle-containing-circles/
 
 Course Schedule :https://leetcode.com/problems/course-schedule/
