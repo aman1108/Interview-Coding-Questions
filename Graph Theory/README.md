@@ -10,7 +10,7 @@ Cycle-In-Directed-Graph(Iterative DFS): https://www.geeksforgeeks.org/detect-cyc
 
 Cycle-In-Directed-Graph(Kahn's Algortihm): https://www.geeksforgeeks.org/detect-cycle-in-a-graph/
 
-Is Grapg Bipartite: https://leetcode.com/problems/is-graph-bipartite/
+Is Graph Bipartite: https://leetcode.com/problems/is-graph-bipartite/
 
 A New Order: https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/a-new-order/
 
