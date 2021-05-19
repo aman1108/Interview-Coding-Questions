@@ -12,6 +12,8 @@ Cycle-In-Directed-Graph(Kahn's Algortihm): https://www.geeksforgeeks.org/detect-
 
 Is Graph Bipartite: https://leetcode.com/problems/is-graph-bipartite/
 
+Network Delay Time(Dijkstra Algo): https://leetcode.com/problems/network-delay-time/
+
 A New Order: https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/a-new-order/
 
 As far from Land as possible: https://leetcode.com/problems/as-far-from-land-as-possible/
