@@ -3,6 +3,8 @@ Add Two Number(Linked List in Python): https://leetcode.com/problems/add-two-num
 
 Maximum Ones after Modification: https://www.geeksforgeeks.org/longest-subsegment-1s-formed-changing-k-0s/
 
+Product of Array except self: https://leetcode.com/problems/product-of-array-except-self/
+
 Count Total Set Bits:https://www.interviewbit.com/problems/count-total-set-bits/
 
 Integer Replacement: https://leetcode.com/problems/integer-replacement/ 
