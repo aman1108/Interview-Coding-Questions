@@ -66,6 +66,8 @@ Unique substrings in Wraparound: https://leetcode.com/problems/unique-substrings
 
 Cherry Pickup II: https://leetcode.com/problems/cherry-pickup-ii/
 
+New 21 Game: https://leetcode.com/problems/new-21-game/
+
 Longest Increasing Subsequence: https://leetcode.com/problems/longest-increasing-subsequence/
 
 Interleaving String: https://www.interviewbit.com/problems/interleaving-strings/
