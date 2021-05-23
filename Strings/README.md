@@ -14,6 +14,8 @@ Unique Email Addresses: https://leetcode.com/problems/unique-email-addresses/sub
 
 ZigZag Conversion: https://leetcode.com/problems/zigzag-conversion/
 
+Minimum Swaps to make strings equal: https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/
+
 Decode Ways: https://leetcode.com/problems/decode-ways/
 
 Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/
