@@ -5,3 +5,5 @@ Maximum Performance of a Team: https://leetcode.com/problems/maximum-performance
 Avoid Flood in the City: https://leetcode.com/problems/avoid-flood-in-the-city/
 
 Count Subtree with Max Distance: https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/
+
+Maximum Height Trees: https://leetcode.com/problems/minimum-height-trees/
