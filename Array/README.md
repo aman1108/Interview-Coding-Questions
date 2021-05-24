@@ -48,6 +48,8 @@ Subsets:https://www.interviewbit.com/problems/subset/
 
 Permuatations: https://leetcode.com/problems/permutations/
 
+Shortes Unsorted Continous Subarray: https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+
 Decoded XORed Permutation: https://leetcode.com/problems/decode-xored-permutation/
 
 K concatenation Maximum Sum:https://leetcode.com/problems/k-concatenation-maximum-sum/
