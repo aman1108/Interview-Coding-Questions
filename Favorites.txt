@@ -5,3 +5,5 @@ Find all numbers disappered in array :https://leetcode.com/problems/find-all-num
 Majority Element: https://leetcode.com/problems/majority-element/
 
 Longest Increasing Subsequence: https://leetcode.com/problems/longest-increasing-subsequence/
+
+Maximum Height Tree: https://leetcode.com/problems/minimum-height-trees/
