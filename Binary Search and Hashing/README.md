@@ -18,6 +18,8 @@ Equal: https://www.interviewbit.com/problems/equal/
 
 Task Scheduler: https://leetcode.com/problems/task-scheduler/
 
+Heaters* : https://leetcode.com/problems/heaters/
+
 LRU Cache**: https://leetcode.com/problems/lru-cache/
 
 Woodcutting-made-easy:https://www.interviewbit.com/problems/woodcutting-made-easy/
