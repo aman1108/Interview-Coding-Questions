@@ -14,6 +14,8 @@ Unique Email Addresses: https://leetcode.com/problems/unique-email-addresses/sub
 
 ZigZag Conversion: https://leetcode.com/problems/zigzag-conversion/
 
+Valid Parenthesis String: https://leetcode.com/problems/valid-parenthesis-string/
+
 Minimum Swaps to make strings equal: https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/
 
 Decode Ways: https://leetcode.com/problems/decode-ways/
