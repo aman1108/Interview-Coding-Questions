@@ -20,6 +20,8 @@ Minimum Swaps to make strings equal: https://leetcode.com/problems/minimum-swaps
 
 Decode Ways: https://leetcode.com/problems/decode-ways/
 
+Count Unique Characters of All Substring: https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/
+
 Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/
 
 Letter Case Combination: https://leetcode.com/problems/letter-case-permutation/
