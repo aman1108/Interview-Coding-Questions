@@ -2,6 +2,8 @@ https://leetcode.com/problems/set-matrix-zeroes/
 
 https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/
 
+https://leetcode.com/problems/bulb-switcher-iv/
+
 https://leetcode.com/problems/count-nice-pairs-in-an-array/
 
 https://leetcode.com/problems/advantage-shuffle/
