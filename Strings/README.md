@@ -18,6 +18,8 @@ Valid Parenthesis String: https://leetcode.com/problems/valid-parenthesis-string
 
 Minimum Swaps to make strings equal: https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/
 
+Replace the Substring for Balanced String: https://leetcode.com/problems/replace-the-substring-for-balanced-string/
+
 Decode Ways: https://leetcode.com/problems/decode-ways/
 
 Count Unique Characters of All Substring: https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/
