@@ -12,6 +12,8 @@ Bulls and Cows: https://leetcode.com/problems/bulls-and-cows/
 
 Unique Email Addresses: https://leetcode.com/problems/unique-email-addresses/submissions/
 
+Longest Uncommon Subsequence: https://leetcode.com/problems/longest-uncommon-subsequence-ii/
+
 ZigZag Conversion: https://leetcode.com/problems/zigzag-conversion/
 
 Valid Parenthesis String: https://leetcode.com/problems/valid-parenthesis-string/
