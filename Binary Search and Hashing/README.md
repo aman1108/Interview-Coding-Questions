@@ -34,6 +34,8 @@ Bitwise ORs of Subarrays: https://leetcode.com/problems/bitwise-ors-of-subarrays
 
 Simple Queries: https://www.interviewbit.com/problems/simple-queries/
 
+Number of Valid Words for each Puzzles: https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
+
 Maximum Sum Triplets: https://www.interviewbit.com/problems/maximum-sum-triplet/
 
 Maximum Length of Repeated Subarray (Rabin Karp Algo): https://leetcode.com/problems/maximum-length-of-repeated-subarray/
