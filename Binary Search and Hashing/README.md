@@ -34,6 +34,8 @@ Bitwise ORs of Subarrays: https://leetcode.com/problems/bitwise-ors-of-subarrays
 
 Simple Queries: https://www.interviewbit.com/problems/simple-queries/
 
+Maximum Equal Frequency: https://leetcode.com/problems/maximum-equal-frequency/
+
 Number of Valid Words for each Puzzles: https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
 
 Maximum Sum Triplets: https://www.interviewbit.com/problems/maximum-sum-triplet/
