@@ -9,7 +9,6 @@ Important links:
 
 3) Top Interview questions: https://leetcode.com/problemset/all/
 
-4) Codearena (1v1 Fight): https://www.hackerearth.com/codearena/
 
 Articles:
 
