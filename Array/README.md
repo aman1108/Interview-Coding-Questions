@@ -54,6 +54,8 @@ Decoded XORed Permutation: https://leetcode.com/problems/decode-xored-permutatio
 
 K concatenation Maximum Sum:https://leetcode.com/problems/k-concatenation-maximum-sum/
 
+Asteroid Collision: https://leetcode.com/problems/asteroid-collision/
+
 First Missing Positive: https://leetcode.com/problems/first-missing-positive/
 
 Minimum Initial Energy to finish tasks: https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/
