@@ -30,6 +30,8 @@ Valid-Path: https://www.geeksforgeeks.org/path-rectangle-containing-circles/
 
 Course Schedule :https://leetcode.com/problems/course-schedule/
 
+Path with Minimum Effort: https://leetcode.com/problems/path-with-minimum-effort/
+
 Palindrome Partitioning: https://leetcode.com/problems/palindrome-partitioning/
 
 Find eventual Safe States: https://leetcode.com/problems/find-eventual-safe-states/
