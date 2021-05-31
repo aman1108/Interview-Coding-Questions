@@ -68,6 +68,8 @@ PrettyPrint: https://www.interviewbit.com/problems/prettyprint/
 
 Gas Station: https://leetcode.com/problems/gas-station/
 
+Bag of Tokens: https://leetcode.com/problems/bag-of-tokens/
+
 Bitwise AND of Number Range: https://leetcode.com/problems/bitwise-and-of-numbers-range/
 
 Total Hamming Distance: https://leetcode.com/problems/total-hamming-distance/
