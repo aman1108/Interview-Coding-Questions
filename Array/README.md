@@ -54,6 +54,8 @@ Decoded XORed Permutation: https://leetcode.com/problems/decode-xored-permutatio
 
 K concatenation Maximum Sum:https://leetcode.com/problems/k-concatenation-maximum-sum/
 
+kth Largest Element in an Array: https://leetcode.com/problems/kth-largest-element-in-an-array/
+
 Asteroid Collision: https://leetcode.com/problems/asteroid-collision/
 
 First Missing Positive: https://leetcode.com/problems/first-missing-positive/
