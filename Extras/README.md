@@ -12,6 +12,8 @@ https://leetcode.com/problems/count-nice-pairs-in-an-array/
 
 https://leetcode.com/problems/advantage-shuffle/
 
+https://leetcode.com/problems/triangle/
+
 https://leetcode.com/problems/surrounded-regions/
 
 https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/
