@@ -56,6 +56,8 @@ Length of Longest Fibonacci Subsequence: https://leetcode.com/problems/length-of
 
 Kth Manhattan Distance Neighbourhood: https://www.interviewbit.com/problems/kth-manhattan-distance-neighbourhood/
 
+Knight Probability in Chessboard: https://leetcode.com/problems/knight-probability-in-chessboard/
+
 Largest area of Rectangle with permutation: https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations/ 
 
 Tushar's Birthday Party: https://www.interviewbit.com/problems/tushars-birthday-party/
