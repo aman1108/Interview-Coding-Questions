@@ -8,6 +8,8 @@ Combinational Sum: https://leetcode.com/problems/combination-sum/
 
 Diameter of a Binary Tree: https://leetcode.com/problems/diameter-of-binary-tree/
 
+Lowest Common Ancestor: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+
 Count Good Nodes in Binary Tree: https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 
 Binary Tree from Preorder: https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
