@@ -18,6 +18,8 @@ ZigZag Conversion: https://leetcode.com/problems/zigzag-conversion/
 
 Valid Parenthesis String: https://leetcode.com/problems/valid-parenthesis-string/
 
+Score of Parentheses: https://leetcode.com/problems/score-of-parentheses/
+
 Minimum Swaps to make strings equal: https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/
 
 Replace the Substring for Balanced String: https://leetcode.com/problems/replace-the-substring-for-balanced-string/
