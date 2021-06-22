@@ -72,6 +72,8 @@ Cherry Pickup II: https://leetcode.com/problems/cherry-pickup-ii/
 
 New 21 Game: https://leetcode.com/problems/new-21-game/
 
+Ones and Zeros: https://leetcode.com/problems/ones-and-zeroes/
+
 Longest Increasing Subsequence: https://leetcode.com/problems/longest-increasing-subsequence/
 
 Geet biggest Three Rhombus Sum: https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/
