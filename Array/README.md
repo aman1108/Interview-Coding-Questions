@@ -78,6 +78,8 @@ Total Hamming Distance: https://leetcode.com/problems/total-hamming-distance/
 
 Maximum Sum of good subarray: https://leetcode.com/problems/maximum-score-of-a-good-subarray/
 
+Sum of Subarray Minimums: https://leetcode.com/problems/sum-of-subarray-minimums/
+
 Largest Number: https://www.interviewbit.com/problems/largest-number/
 
 Min XOR Value: https://www.interviewbit.com/problems/min-xor-value/
