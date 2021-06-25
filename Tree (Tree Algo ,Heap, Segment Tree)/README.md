@@ -1,5 +1,7 @@
 Max Depth of Binary Tree: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
+Shortest Encoding of Words: https://leetcode.com/problems/short-encoding-of-words/
+
 Maximum Performance of a Team: https://leetcode.com/problems/maximum-performance-of-a-team/
 
 Avoid Flood in the City: https://leetcode.com/problems/avoid-flood-in-the-city/
