@@ -5,6 +5,8 @@ Maximum Ones after Modification: https://www.geeksforgeeks.org/longest-subsegmen
 
 Product of Array except self: https://leetcode.com/problems/product-of-array-except-self/
 
+Maximum XOR of Two Numbers in an Array: https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+
 Count Total Set Bits:https://www.interviewbit.com/problems/count-total-set-bits/
 
 Integer Replacement: https://leetcode.com/problems/integer-replacement/ 
