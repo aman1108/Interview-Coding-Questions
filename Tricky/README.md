@@ -22,3 +22,5 @@ Sliding Window Maximum: https://leetcode.com/problems/sliding-window-maximum/
 Maximum Building Height: https://leetcode.com/problems/maximum-building-height/
 
 Magic Number: https://www.hackerearth.com/problem/algorithm/milly-and-the-magic-numbers-22/
+
+Geek Collect the balls: https://practice.geeksforgeeks.org/problems/geek-collects-the-balls5515/1#
